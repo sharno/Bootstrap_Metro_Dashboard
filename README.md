@@ -1,7 +1,7 @@
 Bootstrap_Metro_Dashboard
 =========================
 
-An Metro Style Dashboard Template with Twitter Bootstrap
+A Metro Style Dashboard Template with Twitter Bootstrap
 
 Demo: http://jiji262.github.io/Bootstrap_Metro_Dashboard/
 
